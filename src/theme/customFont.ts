@@ -1,0 +1,65 @@
+export const customFont = `
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 900;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-Black.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 800;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-ExtraBold.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 700;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-Bold.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 600;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-SemiBold.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 500;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-Medium.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 400;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-Regular.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 300;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-Light.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 200;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-ExtraLight.ttf") format('truetype');
+          }
+          @font-face {
+            font-family: 'Vazirmatn';
+            font-style: normal;
+            font-display: swap;
+            font-weight: 100;
+            src: local('Vazirmatn'), url("./assets/fonts/Vazirmatn-UI-FD-Thin.ttf") format('truetype');
+          }
+        `;
